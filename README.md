@@ -15,6 +15,12 @@ python camview.py --cli
 
 <br>
 
+## Screenshot(s)
+
+[Imgur](https://i.imgur.com/mACCAfU.png)
+
+<br>
+
 ## About CamView
 CamView works on part magic, part Python, and part Google! It wouldn't be fair for me to take all the credit, when in fact CamView builds on top of each of these tools.
 
