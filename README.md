@@ -17,7 +17,7 @@ python camview.py --cli
 
 ## Screenshot(s)
 
-[Imgur](https://i.imgur.com/mACCAfU.png)
+![Imgur](https://i.imgur.com/mACCAfU.png)
 
 <br>
 
