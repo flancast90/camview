@@ -5,7 +5,7 @@
 
 ## Get Started
 To get started with CamView, simply download the ``camview.py`` file and download the required libs, and then run.
-1. ``pip install ast requests selenium climage cv2 multiprocessing argparse``
+1. ``pip install -r requirements.txt``
 2. ``python camview.py``
 
 CamView has some optional flags for different modes. To use as normal, you do not need to include any of these. However, for devices with certain constraints, there is an optional CLI mode where images are converted and then printed to the terminal. To use this feature, type:
