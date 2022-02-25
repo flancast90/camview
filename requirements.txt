@@ -1,7 +1,6 @@
-ast
 requests
 selenium
 climage
-cv2
+opencv-python
 multiprocessing
 argparse
