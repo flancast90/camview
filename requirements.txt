@@ -1,0 +1,6 @@
+requests
+selenium
+climage
+opencv-python
+multiprocessing
+argparse
